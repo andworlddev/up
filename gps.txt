@@ -1,0 +1,7 @@
+{
+        "version_code": 300,
+        "version_name": "3.0.0",
+        "market": "google play",
+        "update_title": "New version 3.0.0 found!",
+        "update_detail_list": ["1.Add History Feature", "2.Add Favorite Feauter","3.Fix some bugs","4.Add new Guide UI"]
+}
